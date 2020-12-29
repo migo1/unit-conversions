@@ -32,7 +32,7 @@ current_directory=$(pwd)
 folder_name=$(basename "$current_directory")
 
 vendor_name_unsantized=$(ask_question "Vendor name" "spatie")
-package_name=$(ask_question "Package name" "$folder_name")
+package_name=$(ask_question "Package name" "$fnameolder_name")
 package_description=$(ask_question "Package description" "")
 
 # convert my-class-title to MyClassTitle - RODO: use to subsctitute ./src/*
