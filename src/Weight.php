@@ -6,8 +6,7 @@ class Weight
 {
     private float $kilograms;
 
-    public static function formKilograms(float $kilograms): self
-    {
+    public static function formKilograms(float $kilograms): self {
         return new static($kilograms);
     }
 
