@@ -2,8 +2,8 @@
 
 namespace Migo\UnitConversions\Tests;
 
-use PHPUnit\Framework\TestCase;
 use Migo\UnitConversions\Weight;
+use PHPUnit\Framework\TestCase;
 
 class WeightTest extends TestCase
 {
