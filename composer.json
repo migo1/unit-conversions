@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\UnitConversions\\": "src"
+            "Migo\\UnitConversions\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\UnitConversions\\Tests\\": "tests"
+            "Migo\\UnitConversions\\Tests\\": "tests"
         }
     },
     "scripts": {
