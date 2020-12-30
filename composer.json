@@ -1,17 +1,17 @@
 {
-    "name": "spatie/unit-conversions",
+    "name": "migo/unit-conversions",
     "description": "unit conversions in php",
     "keywords": [
-        "spatie",
+        "migo",
         "unit-conversions"
     ],
-    "homepage": "https://github.com/spatie/unit-conversions",
+    "homepage": "https://github.com/migo1/unit-conversions",
     "license": "MIT",
     "authors": [
         {
             "name": "Robert Migot",
             "email": "ertmigot@gmail.com",
-            "homepage": "https://spatie.be",
+            "homepage": "https://github.com/migo1",
             "role": "Developer"
         }
     ],
