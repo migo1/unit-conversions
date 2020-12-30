@@ -24,11 +24,11 @@ composer require migo/unit-conversions
 ```
 
 ## Usage
-
+```php
 use Migo\UnitConversions\Weight;
 
 Weight::formKilograms(100)->toLbs();
-
+```
 <!-- ```php
 $skeleton = new Spatie\UnitConversions();
 echo $skeleton->echoPhrase('Hello, Spatie!');
